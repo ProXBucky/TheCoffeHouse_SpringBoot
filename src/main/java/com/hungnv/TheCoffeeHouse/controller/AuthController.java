@@ -1,12 +1,10 @@
 package com.hungnv.TheCoffeeHouse.controller;
-
 import com.hungnv.TheCoffeeHouse.dto.AuthDTO;
 import com.hungnv.TheCoffeeHouse.service.AuthService;
-import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import lombok.RequiredArgsConstructor;
+import lombok.*;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

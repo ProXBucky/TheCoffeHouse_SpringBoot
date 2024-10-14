@@ -1,12 +1,7 @@
 package com.hungnv.TheCoffeeHouse.dto;
 
 import com.hungnv.TheCoffeeHouse.model.ImageStore;
-import com.hungnv.TheCoffeeHouse.model.Products;
-import com.hungnv.TheCoffeeHouse.model.Stores;
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 import java.util.List;
 

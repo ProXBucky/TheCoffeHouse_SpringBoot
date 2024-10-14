@@ -1,14 +1,9 @@
 package com.hungnv.TheCoffeeHouse.dto;
-
 import com.hungnv.TheCoffeeHouse.model.Allcodes;
-import com.hungnv.TheCoffeeHouse.model.OrderDetail;
 import com.hungnv.TheCoffeeHouse.model.Products;
 import jakarta.persistence.*;
-import jdk.jshell.Snippet;
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
+
 
 import java.util.List;
 

@@ -1,8 +1,5 @@
 package com.hungnv.TheCoffeeHouse.dto;
-
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 public class AuthDTO {
     @Data
